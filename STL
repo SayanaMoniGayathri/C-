@@ -1,0 +1,18 @@
+STL is a standard template library for C++
+It has set of classes and functions
+Inbuilt data structures and algorithms 
+Fancy keywords like vector<pair<int,string>>, sort(..., cmp)
+Major components:
+-Algoritms
+-Containers
+-Iterators and functors
+
+Why STL?
+1)Reusability
+2)Easy to solve
+3)Time saving
+4)Optimized Implemetations
+5)Passes all test cases.
+
+
+
